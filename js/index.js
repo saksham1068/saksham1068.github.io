@@ -1,3 +1,14 @@
+<h1>
+<div class="underlay"></div>
+<span class="initial">
+  <span>Kuki's</span>
+  <span>smile is wonder</span>
+</span>
+<span class="final">
+  <span>We will</span>
+  <span>never let it fade</span>
+</span>
+</h1>
 $(document).ready(function() {  
   setTimeout(function() {
     $('h1').addClass('zoom');
